@@ -1,0 +1,16 @@
+body{
+    background-color: brown;
+
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+label{
+   color: aliceblue;
+}
+form{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
